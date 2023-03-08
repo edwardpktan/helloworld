@@ -4,4 +4,4 @@ Hello world
 
 I am Edward
 
-It's lunch!
+Afternoon session ... 
